@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-composition-cards/static/css/main.1a9624b0.css",
+    "main.js": "/react-composition-cards/static/js/main.a21d4114.js",
+    "static/js/787.ec65db9c.chunk.js": "/react-composition-cards/static/js/787.ec65db9c.chunk.js",
+    "static/media/волк.jpg": "/react-composition-cards/static/media/волк.1961789fa785de29633d.jpg",
+    "index.html": "/react-composition-cards/index.html",
+    "main.1a9624b0.css.map": "/react-composition-cards/static/css/main.1a9624b0.css.map",
+    "main.a21d4114.js.map": "/react-composition-cards/static/js/main.a21d4114.js.map",
+    "787.ec65db9c.chunk.js.map": "/react-composition-cards/static/js/787.ec65db9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9624b0.css",
+    "static/js/main.a21d4114.js"
+  ]
+}
